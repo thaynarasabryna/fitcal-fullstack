@@ -32,9 +32,4 @@ FitCal é uma aplicação web que permite aos usuários calcular suas necessidad
   </tr>
 </table>
 
-## Desenvolvedores
-- Henrique Willer
-- Thaynara Sabryna
-- Pablo Anjos
-- Arthur Nogueira
-- Victor Henrique
+
